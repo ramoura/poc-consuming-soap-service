@@ -1,0 +1,1 @@
+# poc-consuming-soap-service

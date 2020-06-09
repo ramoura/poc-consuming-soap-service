@@ -1,0 +1,14 @@
+{
+  "name": "soapclient-node",
+  "version": "1.0.0",
+  "description": "PoC: Consuming SOAP services, comparing Node and Java.",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "run": "node index"
+  },
+  "author": "",
+  "dependencies": {
+    "soap": "^0.31.0"
+  }
+}
